@@ -1,0 +1,16 @@
+{
+  "name": "Мои Финансы",
+  "short_name": "Мои Финансы",
+  "description": "Учёт клиентов, долгов, платежей, переносов и просрочек",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5EFE3",
+  "theme_color": "#FBF8F1",
+  "lang": "ru",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
